@@ -1,0 +1,42 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+325424        0x4F730         Base64 standard index table
+325868        0x4F8EC         SHA256 hash constants, big endian
+332080        0x51130         AES S-Box
+332336        0x51230         AES Inverse S-Box
+332604        0x5133C         DES SP1, big endian
+332860        0x5143C         DES SP2, big endian
+368048        0x59DB0         SHA256 hash constants, big endian
+387744        0x5EAA0         Copyright string: "Copyright (c) 1996-2018 Express Logic Inc. * NetX Duo ARC600/MetaWare Version G5.11.5.0 SN: Amaxon_Eval_10-18-18 *"
+797085        0xC299D         Certificate in DER format (x509 v3), header length: 4, sequence length: 101
+888232        0xD8DA8         Certificate in DER format (x509 v3), header length: 4, sequence length: 1033
+889272        0xD91B8         Certificate in DER format (x509 v3), header length: 4, sequence length: 1033
+890312        0xD95C8         Certificate in DER format (x509 v3), header length: 4, sequence length: 1033
+891352        0xD99D8         Certificate in DER format (x509 v3), header length: 4, sequence length: 1033
+892392        0xD9DE8         Certificate in DER format (x509 v3), header length: 4, sequence length: 1033
+893432        0xDA1F8         Certificate in DER format (x509 v3), header length: 4, sequence length: 1033
+894472        0xDA608         Certificate in DER format (x509 v3), header length: 4, sequence length: 1033
+895512        0xDAA18         Certificate in DER format (x509 v3), header length: 4, sequence length: 1033
+896552        0xDAE28         Certificate in DER format (x509 v3), header length: 4, sequence length: 1033
+897592        0xDB238         Certificate in DER format (x509 v3), header length: 4, sequence length: 1033
+1203868       0x125E9C        Base64 standard index table
+1204312       0x126058        SHA256 hash constants, big endian
+1209308       0x1273DC        AES S-Box
+1209564       0x1274DC        AES Inverse S-Box
+1209832       0x1275E8        DES SP1, big endian
+1210088       0x1276E8        DES SP2, big endian
+1212316       0x127F9C        SHA256 hash constants, big endian
+1231620       0x12CB04        Copyright string: "Copyright (c) 1996-2018 Express Logic Inc. * NetX Duo ARC600/MetaWare Version G5.11.5.0 SN: Amaxon_Eval_10-18-18 *"
+1671037       0x197F7D        Certificate in DER format (x509 v3), header length: 4, sequence length: 101
+1762184       0x1AE388        Certificate in DER format (x509 v3), header length: 4, sequence length: 1033
+1763224       0x1AE798        Certificate in DER format (x509 v3), header length: 4, sequence length: 1033
+1764264       0x1AEBA8        Certificate in DER format (x509 v3), header length: 4, sequence length: 1033
+1765304       0x1AEFB8        Certificate in DER format (x509 v3), header length: 4, sequence length: 1033
+1766344       0x1AF3C8        Certificate in DER format (x509 v3), header length: 4, sequence length: 1033
+1767384       0x1AF7D8        Certificate in DER format (x509 v3), header length: 4, sequence length: 1033
+1768424       0x1AFBE8        Certificate in DER format (x509 v3), header length: 4, sequence length: 1033
+1769464       0x1AFFF8        Certificate in DER format (x509 v3), header length: 4, sequence length: 1033
+1770504       0x1B0408        Certificate in DER format (x509 v3), header length: 4, sequence length: 1033
+1771544       0x1B0818        Certificate in DER format (x509 v3), header length: 4, sequence length: 1033
+

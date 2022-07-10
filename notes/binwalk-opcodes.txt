@@ -1,0 +1,7 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+140316        0x2241C         ARMEB instructions, function prologue
+1021052       0xF947C         ARMEB instructions, function prologue
+1371844       0x14EEC4        ARM instructions, function prologue
+
