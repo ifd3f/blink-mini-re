@@ -1,0 +1,149 @@
+# a/b thing
+
+ascii group starts at ~4ba64
+
+000b6735	ampdu_txq_prof_dump	"ampdu_txq_prof_dump"	ds
+0018b9ef	ampdu_txq_prof_dump	"ampdu_txq_prof_dump"	ds
+000b6720	ampdu_txq_prof_start	"ampdu_txq_prof_start"	ds
+0018b9da	ampdu_txq_prof_start	"ampdu_txq_prof_start"	ds
+000b66f5	ampdumac	"ampdumac"	ds
+0018b9af	ampdumac	"ampdumac"	ds
+000b70fd	ant_diversity_sw_core0	"ant_diversity_sw_core0"	ds
+0018c391	ant_diversity_sw_core0	"ant_diversity_sw_core0"	ds
+000b7114	ant_diversity_sw_core1	"ant_diversity_sw_core1"	ds
+0018c3a8	ant_diversity_sw_core1	"ant_diversity_sw_core1"	ds
+
+; 0x18b9da - 0xb6720
+	873146
+; 0xb66f5 - 0x18b9af
+	-873146
+
+= 0xd52ba
+
+
+# addrs
+
+- f 8c0ef0
+- f 8c6c04
+- f 8839b8
+- f 87edec
+- f 8a809c @ 089b54
+
+- p 884457
+
+- f 00951108();
+- f 0094fba8(*DAT_8014bad4,0);
+- f 00951108();
+- f 8087eda0(x,0,0x40); // a relative jump that's missing
+
+## source
+func_0x008c6c04
+
+  iVar1 = func_0x008839b8(0x168);
+  if (iVar1 != 0) {
+    arr = (int *)func_0x008839b8(0xfc);
+    *(int **)(iVar1 + 0x1c) = arr;
+    if (arr != (int *)0x0) {
+      init_an_array(arr);
+      iVar2 = func_0x008839b8(0x350);
+      *(int *)(iVar1 + 0x88) = iVar2;
+      if (iVar2 != 0) {
+        iVar2 = func_0x008839b8(0xc4);
+        *(int *)(iVar1 + 0x8c) = iVar2;
+        if (iVar2 != 0) {
+          return iVar1;
+        }
+      }
+    }
+
+                             PTR_DAT_000895a0                                XREF[1]:     FUN_000892dc:00089360(R)  
+        000895a0 40 00 01 00     addr       DAT_00010040                                     = 20h     
+                             PTR_DAT_000895a4                                XREF[1]:     FUN_000892dc:00089516(R)  
+        000895a4 7d f0 00 00     addr       DAT_0000f07d                                     = CFh
+
+
+
+                             DAT_00089c7c                                    XREF[1]:     FUN_00089a84:00089aee(R)  
+        00089c7c 57 44 88 00     undefined4 00884457h
+                             DAT_00089c80                                    XREF[1]:     FUN_00089a84:00089b24(R)  
+        00089c80 eb 44 88 00     undefined4 008844EBh
+                             DAT_00089c84                                    XREF[1]:     FUN_00089a84:00089ba0(R)  
+        00089c84 86 45 88 00     undefined4 00884586h
+                             DAT_00089c88                                    XREF[1]:     FUN_00089a84:00089bc6(R)  
+        00089c88 93 45 88 00     undefined4 00884593h
+                             DAT_00089c8c                                    XREF[1]:     FUN_00089a84:00089be4(R)  
+        00089c8c 9e 45 88 00     undefined4 0088459Eh
+                             DAT_00089c90                                    XREF[1]:     FUN_00089a84:00089bee(R)  
+        00089c90 b0 45 88 00     undefined4 008845B0h
+                             DAT_00089c94                                    XREF[1]:     FUN_00089a84:00089c04(R)  
+        00089c94 ba 45 88 00     undefined4 008845BAh
+
+
+                             DAT_000c8450                                    XREF[1]:     FUN_000c8400:000c8422(R)  
+        000c8450 c0 ad 3a 02     undefined4 023AADC0h
+                             DAT_000c8454                                    XREF[1]:     FUN_000c8400:000c8428(R)  
+        000c8454 80 ba 8c 01     undefined4 018CBA80h
+                             DAT_000c8458                                    XREF[1]:     FUN_000c8400:000c842e(R)  
+        000c8458 00 f8 24 01     undefined4 0124F800h
+                             DAT_000c845c                                    XREF[1]:     FUN_000c8400:000c8434(R)  
+        000c845c 20 18 05 00     undefined4 00051820h                                        ?  ->  00051820
+                             DAT_000c8460                                    XREF[1]:     FUN_000c8400:000c8438(R)  
+        000c8460 a6 0f 05 00     undefined4 00050FA6h                                        ?  ->  00050fa6
+                             DAT_000c8464                                    XREF[1]:     FUN_000c8400:000c843c(R)  
+        000c8464 4c 13 05 00     undefined4 0005134Ch                                        ?  ->  0005134c
+
+                             PTR_DAT_00089c7c                                XREF[1]:     FUN_00089a84:00089aee(R)  
+        00089c7c 57 44 88 00     void *     DAT_00884457
+                             PTR_DAT_00089c80                                XREF[1]:     FUN_00089a84:00089b24(R)  
+        00089c80 eb 44 88 00     void *     DAT_008844eb
+                             PTR_DAT_00089c84                                XREF[1]:     FUN_00089a84:00089ba0(R)  
+        00089c84 86 45 88 00     void *     DAT_00884586
+                             PTR_DAT_00089c88                                XREF[1]:     FUN_00089a84:00089bc6(R)  
+        00089c88 93 45 88 00     void *     DAT_00884593
+                             PTR_DAT_00089c8c                                XREF[1]:     FUN_00089a84:00089be4(R)  
+        00089c8c 9e 45 88 00     void *     DAT_0088459e
+                             PTR_DAT_00089c90                                XREF[1]:     FUN_00089a84:00089bee(R)  
+        00089c90 b0 45 88 00     void *     DAT_008845b0
+                             PTR_DAT_00089c94                                XREF[1]:     FUN_00089a84:00089c04(R)  
+        00089c94 ba 45 88 00     void *     DAT_008845ba
+
+
+        000ad6f0 34 f0 2e d8     bl         SUB_010e1750
+
+
+/* WARNING: Globals starting with '_' overlap smaller symbols at the same address */
+
+void entrypoint_with_spinloop(int param_1)
+
+{
+  func_0x80951108();
+  if (param_1 != 0) {
+    _EXT_00000000 = 0;
+  }
+  func_0x8094fba8(*DAT_8014bad4,0);
+  if (*DAT_8014bad8 != (code *)0x0) {
+    (**DAT_8014bad8)();
+  }
+  func_0x80951108();
+  do {
+                    /* WARNING: Do nothing block with infinite loop */
+  } while( true );
+}
+
+
+7/14
+
+lots of funcs at 0x900000 ish
+code in app A starts at 7d63e. App A code ends around cd9c8. Total length is 0x80283E.
+
+refs to 87fe7c
+
+idea: find a reference to a function physically far from memcmp/memcpy. See if aligning memcmp/memcpy to it works. The function reference needs 3 params of course. If uses retval then memcmp, otherwise memcpy?
+
+Branch and link:
+- The instruction can therefore specify a branch of +/- 32Mbytes.
+- Branches beyond +/- 32Mbytes must use an offset or absolute destination which has
+been previously loaded into a register. In this case the PC should be manually saved in
+R14 if a Branch with Link type operation is required.
+
+sadly we can't use this as a reference :( it's always a relative jump

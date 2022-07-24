@@ -1,0 +1,233 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+662           0x296           VxWorks symbol table, little endian, first entry: [type: function, code address: 0x90000070, symbol address: 0x4A2600F0],,,,,,,,,
+3182          0xC6E           LZMA compressed data, properties: 0xC0, dictionary size: 0 bytes, uncompressed size: 0 bytes
+7231          0x1C3F          VxWorks symbol table, big endian, first entry: [type: function, code address: 0x3000000, symbol address: 0xB0000000],,,,,,,,,
+18169         0x46F9          bix header, header size: 64 bytes, header CRC: 0x234280, created: 1971-09-02 16:32:00, image size: 1654808704 bytes, Data Address: 0x40225384, Entry Point: 0xFE000C00, data CRC: 0x22D27180, OS: OpenBSD, image name: "ÅöáÇöð ðáÅöáÇöðð&S¾ô!éØ"
+18309         0x4785          bix header, header size: 64 bytes, header CRC: 0x234280, created: 1971-09-02 16:32:00, image size: 1654808704 bytes, Data Address: 0x40225384, Entry Point: 0xFE000C00, data CRC: 0x22D24E80, OS: OpenBSD, image name: "ÅöáÇöð ðáÅöáÇöðð&S¾ô!éØ"
+49942         0xC316          MPEG transport stream data
+72466         0x11B12         Private key in DER format (PKCS header length: 4, sequence length: -30654
+72466         0x11B12         Certificate in DER format (x509 v3), header length: 4, sequence length: -30654
+72466         0x11B12         Object signature in DER format (PKCS header length: 4, sequence length: -30654
+72474         0x11B1A         Private key in DER format (PKCS header length: 4, sequence length: -30653
+72474         0x11B1A         Certificate in DER format (x509 v3), header length: 4, sequence length: -30653
+72474         0x11B1A         Object signature in DER format (PKCS header length: 4, sequence length: -30653
+72482         0x11B22         Private key in DER format (PKCS header length: 4, sequence length: -30652
+72482         0x11B22         Certificate in DER format (x509 v3), header length: 4, sequence length: -30652
+72482         0x11B22         Object signature in DER format (PKCS header length: 4, sequence length: -30652
+72496         0x11B30         Private key in DER format (PKCS header length: 4, sequence length: -30650
+72496         0x11B30         Certificate in DER format (x509 v3), header length: 4, sequence length: -30650
+72496         0x11B30         Object signature in DER format (PKCS header length: 4, sequence length: -30650
+72502         0x11B36         Private key in DER format (PKCS header length: 4, sequence length: -30649
+72502         0x11B36         Certificate in DER format (x509 v3), header length: 4, sequence length: -30649
+72502         0x11B36         Object signature in DER format (PKCS header length: 4, sequence length: -30649
+72508         0x11B3C         Private key in DER format (PKCS header length: 4, sequence length: -30648
+72508         0x11B3C         Certificate in DER format (x509 v3), header length: 4, sequence length: -30648
+72508         0x11B3C         Object signature in DER format (PKCS header length: 4, sequence length: -30648
+72518         0x11B46         Private key in DER format (PKCS header length: 4, sequence length: -30646
+72518         0x11B46         Certificate in DER format (x509 v3), header length: 4, sequence length: -30646
+72518         0x11B46         Object signature in DER format (PKCS header length: 4, sequence length: -30646
+72524         0x11B4C         Private key in DER format (PKCS header length: 4, sequence length: -30645
+72524         0x11B4C         Certificate in DER format (x509 v3), header length: 4, sequence length: -30645
+72524         0x11B4C         Object signature in DER format (PKCS header length: 4, sequence length: -30645
+72530         0x11B52         Private key in DER format (PKCS header length: 4, sequence length: -30644
+72530         0x11B52         Certificate in DER format (x509 v3), header length: 4, sequence length: -30644
+72530         0x11B52         Object signature in DER format (PKCS header length: 4, sequence length: -30644
+72540         0x11B5C         Private key in DER format (PKCS header length: 4, sequence length: -30642
+72540         0x11B5C         Certificate in DER format (x509 v3), header length: 4, sequence length: -30642
+72540         0x11B5C         Object signature in DER format (PKCS header length: 4, sequence length: -30642
+72546         0x11B62         Private key in DER format (PKCS header length: 4, sequence length: -30641
+72546         0x11B62         Certificate in DER format (x509 v3), header length: 4, sequence length: -30641
+72546         0x11B62         Object signature in DER format (PKCS header length: 4, sequence length: -30641
+72552         0x11B68         Private key in DER format (PKCS header length: 4, sequence length: -30640
+72552         0x11B68         Certificate in DER format (x509 v3), header length: 4, sequence length: -30640
+72552         0x11B68         Object signature in DER format (PKCS header length: 4, sequence length: -30640
+72562         0x11B72         Private key in DER format (PKCS header length: 4, sequence length: -30638
+72562         0x11B72         Certificate in DER format (x509 v3), header length: 4, sequence length: -30638
+72562         0x11B72         Object signature in DER format (PKCS header length: 4, sequence length: -30638
+72568         0x11B78         Private key in DER format (PKCS header length: 4, sequence length: -30637
+72568         0x11B78         Certificate in DER format (x509 v3), header length: 4, sequence length: -30637
+72568         0x11B78         Object signature in DER format (PKCS header length: 4, sequence length: -30637
+72574         0x11B7E         Private key in DER format (PKCS header length: 4, sequence length: -30636
+72574         0x11B7E         Certificate in DER format (x509 v3), header length: 4, sequence length: -30636
+72574         0x11B7E         Object signature in DER format (PKCS header length: 4, sequence length: -30636
+72584         0x11B88         Private key in DER format (PKCS header length: 4, sequence length: -30634
+72584         0x11B88         Certificate in DER format (x509 v3), header length: 4, sequence length: -30634
+72584         0x11B88         Object signature in DER format (PKCS header length: 4, sequence length: -30634
+72592         0x11B90         Private key in DER format (PKCS header length: 4, sequence length: 7195
+72592         0x11B90         Certificate in DER format (x509 v3), header length: 4, sequence length: 7195
+72592         0x11B90         Object signature in DER format (PKCS header length: 4, sequence length: 7195
+79949         0x1384D         Intel x86 or x64 microcode, sig 0x262df47e, pf_mask 0xf04104f0, 2568-90-53, rev 0x762d0052, size 251666816
+95110         0x17386         Private key in DER format (PKCS header length: 4, sequence length: 117
+95110         0x17386         Certificate in DER format (x509 v3), header length: 4, sequence length: 117
+95110         0x17386         Object signature in DER format (PKCS header length: 4, sequence length: 117
+97324         0x17C2C         Intel x86 or x64 microcode, sig 0x00000400, pf_mask 0x100000, 1000-00-00, rev 0x2000, size 2693287926
+97345         0x17C41         Intel x86 or x64 microcode, sig 0x88a0884f, pf_mask 0xbbc48862, 0FF1-F6-76, rev 0x-3ffff000, size 2065219171
+106102        0x19E76         Private key in DER format (PKCS header length: 4, sequence length: 8650
+106102        0x19E76         Certificate in DER format (x509 v3), header length: 4, sequence length: 8650
+106102        0x19E76         Object signature in DER format (PKCS header length: 4, sequence length: 8650
+115824        0x1C470         Private key in DER format (PKCS header length: 4, sequence length: 10305
+115824        0x1C470         Certificate in DER format (x509 v3), header length: 4, sequence length: 10305
+115824        0x1C470         Object signature in DER format (PKCS header length: 4, sequence length: 10305
+115832        0x1C478         Private key in DER format (PKCS header length: 4, sequence length: -17979
+115832        0x1C478         Certificate in DER format (x509 v3), header length: 4, sequence length: -17979
+115832        0x1C478         Object signature in DER format (PKCS header length: 4, sequence length: -17979
+129720        0x1FAB8         Private key in DER format (PKCS header length: 4, sequence length: -10240
+129720        0x1FAB8         Certificate in DER format (x509 v3), header length: 4, sequence length: -10240
+129720        0x1FAB8         Object signature in DER format (PKCS header length: 4, sequence length: -10240
+153664        0x25840         Private key in DER format (PKCS header length: 4, sequence length: -15487
+153664        0x25840         Certificate in DER format (x509 v3), header length: 4, sequence length: -15487
+153664        0x25840         Object signature in DER format (PKCS header length: 4, sequence length: -15487
+154458        0x25B5A         Private key in DER format (PKCS header length: 4, sequence length: 2538
+154458        0x25B5A         Certificate in DER format (x509 v3), header length: 4, sequence length: 2538
+154458        0x25B5A         Object signature in DER format (PKCS header length: 4, sequence length: 2538
+155696        0x26030         Private key in DER format (PKCS header length: 4, sequence length: 8256
+155696        0x26030         Certificate in DER format (x509 v3), header length: 4, sequence length: 8256
+155696        0x26030         Object signature in DER format (PKCS header length: 4, sequence length: 8256
+155712        0x26040         Private key in DER format (PKCS header length: 4, sequence length: 9775
+155712        0x26040         Certificate in DER format (x509 v3), header length: 4, sequence length: 9775
+155712        0x26040         Object signature in DER format (PKCS header length: 4, sequence length: 9775
+156050        0x26192         Private key in DER format (PKCS header length: 4, sequence length: -16366
+156050        0x26192         Certificate in DER format (x509 v3), header length: 4, sequence length: -16366
+156050        0x26192         Object signature in DER format (PKCS header length: 4, sequence length: -16366
+170064        0x29850         Private key in DER format (PKCS header length: 4, sequence length: 3318
+170064        0x29850         Certificate in DER format (x509 v3), header length: 4, sequence length: 3318
+170064        0x29850         Object signature in DER format (PKCS header length: 4, sequence length: 3318
+184090        0x2CF1A         Private key in DER format (PKCS header length: 4, sequence length: 6401
+184090        0x2CF1A         Certificate in DER format (x509 v3), header length: 4, sequence length: 6401
+184090        0x2CF1A         Object signature in DER format (PKCS header length: 4, sequence length: 6401
+184272        0x2CFD0         Private key in DER format (PKCS header length: 4, sequence length: 29960
+184272        0x2CFD0         Certificate in DER format (x509 v3), header length: 4, sequence length: 29960
+184272        0x2CFD0         Object signature in DER format (PKCS header length: 4, sequence length: 29960
+191971        0x2EDE3         Private key in DER format (PKCS header length: 4, sequence length: 25221
+191971        0x2EDE3         Certificate in DER format (x509 v3), header length: 4, sequence length: 25221
+191971        0x2EDE3         Object signature in DER format (PKCS header length: 4, sequence length: 25221
+193203        0x2F2B3         BFF volume entry, AIXv3, file name: "§)	B(A	à§ðz)A""
+193241        0x2F2D9         BFF volume entry, AIXv3, file name: "" SÈ*èÈ1èp"
+239857        0x3A8F1         Private key in DER format (PKCS header length: 4, sequence length: 9086
+239857        0x3A8F1         Certificate in DER format (x509 v3), header length: 4, sequence length: 9086
+239857        0x3A8F1         Object signature in DER format (PKCS header length: 4, sequence length: 9086
+251816        0x3D7A8         Private key in DER format (PKCS header length: 4, sequence length: -3568
+251816        0x3D7A8         Certificate in DER format (x509 v3), header length: 4, sequence length: -3568
+251816        0x3D7A8         Object signature in DER format (PKCS header length: 4, sequence length: -3568
+259326        0x3F4FE         Private key in DER format (PKCS header length: 4, sequence length: 5126
+259326        0x3F4FE         Certificate in DER format (x509 v3), header length: 4, sequence length: 5126
+259326        0x3F4FE         Object signature in DER format (PKCS header length: 4, sequence length: 5126
+265234        0x40C12         Private key in DER format (PKCS header length: 4, sequence length: 5126
+265234        0x40C12         Certificate in DER format (x509 v3), header length: 4, sequence length: 5126
+265234        0x40C12         Object signature in DER format (PKCS header length: 4, sequence length: 5126
+265274        0x40C3A         Private key in DER format (PKCS header length: 4, sequence length: -18424
+265274        0x40C3A         Certificate in DER format (x509 v3), header length: 4, sequence length: -18424
+265274        0x40C3A         Object signature in DER format (PKCS header length: 4, sequence length: -18424
+265282        0x40C42         Private key in DER format (PKCS header length: 4, sequence length: -18424
+265282        0x40C42         Certificate in DER format (x509 v3), header length: 4, sequence length: -18424
+265282        0x40C42         Object signature in DER format (PKCS header length: 4, sequence length: -18424
+267186        0x413B2         Private key in DER format (PKCS header length: 4, sequence length: 31537
+267186        0x413B2         Certificate in DER format (x509 v3), header length: 4, sequence length: 31537
+267186        0x413B2         Object signature in DER format (PKCS header length: 4, sequence length: 31537
+280264        0x446C8         Private key in DER format (PKCS header length: 4, sequence length: -18408
+280264        0x446C8         Certificate in DER format (x509 v3), header length: 4, sequence length: -18408
+280264        0x446C8         Object signature in DER format (PKCS header length: 4, sequence length: -18408
+309862        0x4BA66         Unix path: /../src/blink/blink.c (likely false positive)
+310380        0x4BC6C         Unix path: /api/v1/networks/%d/owls/%d/logs?name=%d (likely false positive)
+311153        0x4BF71         LBR archive data
+311858        0x4C232         Unix path: /../src/app/onboard/imjson.c (likely false positive)
+312258        0x4C3C2         Unix path: /../src/app/onboard/imcjson.c (likely false positive)
+313508        0x4C8A4         Unix path: /api/v1/owl/status (likely false positive)
+313607        0x4C907         ZynOS header, header size: 48 bytes, rom image type: , uncompressed size: 1159746377, compressed size: 1196310868, uncompressed checksum: 0x4520, compressed checksum: 0x5641, flags: 0x55, uncompressed checksum is valid, memory map table address: 0x4E415455
+313633        0x4C921         ZynOS header, header size: 48 bytes, rom image type: , uncompressed size: 1159746377, compressed size: 1196310868, uncompressed checksum: 0x4520, compressed checksum: 0x494E, flags: 0x55, uncompressed checksum is valid, memory map table address: 0x64207265
+314022        0x4CAA6         Unix path: /api/set/key (likely false positive)
+314222        0x4CB6E         Unix path: /../src/app/onboard/http_server.c (likely false positive)
+314566        0x4CCC6         Unix path: /../src/app/cs/request.c (likely false positive)
+315166        0x4CF1E         Unix path: /../src/app/blink_server/blink_serv.c (likely false positive)
+316171        0x4D30B         Unix path: /../src/app/blink_server/ms_writer.c (likely false positive)
+316409        0x4D3F9         Unix path: /../src/app/blink_server/ms_reader.c (likely false positive)
+316826        0x4D59A         Unix path: /../src/app/blink_server/imstat.c (likely false positive)
+317176        0x4D6F8         Unix path: /../src/app/persist/persist_perm.c (likely false positive)
+317266        0x4D752         Unix path: /../src/app/persist/persist_rw.c (likely false positive)
+317654        0x4D8D6         Unix path: /../src/app/fw_update/bundle.c (likely false positive)
+318089        0x4DA89         Unix path: /../src/app/cs/cs.c (likely false positive)
+318186        0x4DAEA         Unix path: /api/v1/networks/%d/owls/%d/ip_address (likely false positive)
+318683        0x4DCDB         Unix path: /api/v1/networks/%d/owls/%d/onboarded (likely false positive)
+318966        0x4DDF6         Unix path: /../src/app/persist/persist_ob.c (likely false positive)
+319755        0x4E10B         LZMA compressed data, properties: 0x5C, dictionary size: 0 bytes, uncompressed size: 0 bytes
+319787        0x4E12B         LZMA compressed data, properties: 0xC0, dictionary size: 0 bytes, uncompressed size: 0 bytes
+319919        0x4E1AF         Unix path: /../src/app/pipes/pipe_mgr/pipe_mgr.c (likely false positive)
+320563        0x4E433         Unix path: /../src/app/pipes/video_pipe/video_pipe.c (likely false positive)
+321047        0x4E617         Unix path: /../src/app/pipes/cram_pipe/cram_pipe.c (likely false positive)
+322342        0x4EB26         Unix path: /../src/app/pipes/muxer_pipe/muxer_pipe.c (likely false positive)
+322618        0x4EC3A         Unix path: /../src/app/pipes/inet_pipe/inet_pipe.c (likely false positive)
+322830        0x4ED0E         Unix path: /../src/app/pipes/audio_pipe/audio_pipe.c (likely false positive)
+323313        0x4EEF1         Unix path: /../src/asic/cpu/arc6xx/interrupts.c (likely false positive)
+323682        0x4F062         Unix path: /../src/asic/io/spi.c (likely false positive)
+323814        0x4F0E6         Unix path: /../src/asic/mem/circbuf.c (likely false positive)
+324113        0x4F211         Unix path: /../src/asic/isp/sensor_interface/sensor_interface.c (likely false positive)
+324346        0x4F2FA         Unix path: /../src/asic/isp/isp_by/exp.c (likely false positive)
+324598        0x4F3F6         Unix path: /../src/asic/isp/isp_nf/tnf.c (likely false positive)
+324650        0x4F42A         Unix path: /../src/asic/isp/scaler/scaler.c (likely false positive)
+324894        0x4F51E         Unix path: /../src/app/crypt/aes_wrapper.c (likely false positive)
+325303        0x4F6B7         Unix path: /../src/asic/io/aes_hw.c (likely false positive)
+325366        0x4F6F6         Unix path: /../src/asic/io/sha256_hw.c (likely false positive)
+325424        0x4F730         Base64 standard index table
+325618        0x4F7F2         Unix path: /../src/app/crypt/blink_hmac_sha256.c (likely false positive)
+325864        0x4F8E8         Broadcom 96345 firmware header, header size: 256, firmware version: "[$", board id: "1¾U}Ãr¾]tÞ±þÜ§ÁñtäiÁï¾GÁÆ$¡Ì-é,oJtª\°©ÜvùÚ>QR¨1Æm°'È¿YÇÆàóÕ§GÊcQ))g'·", ~CRC32 header checksum: 0x84C87814, ~CRC32 data checksum: 0x4ED8AA4A
+325868        0x4F8EC         SHA256 hash constants, big endian
+326132        0x4F9F4         Unix path: /../src/driver/spi_flash/spi_flash.c (likely false positive)
+326352        0x4FAD0         Unix path: /../src/driver/ledbutton/ledbutton.c (likely false positive)
+326573        0x4FBAD         Unix path: /../src/boot/sys/sys_main.c (likely false positive)
+326706        0x4FC32         Unix path: /../src/os/os_thread.c (likely false positive)
+326786        0x4FC82         Unix path: /../src/os/os_timer.c (likely false positive)
+326902        0x4FCF6         Unix path: /../src/os/os_simpleq.c (likely false positive)
+326925        0x4FD0D         EFS2 Qualcomm filesystem super block, little endian, , NAND version 0x7379, 774778670 blocks, 0x65726854 pages per block, 0x2e006461 bytes per page
+327198        0x4FE1E         Unix path: /../src/app/network/nx_secure511_sp2/nx_secure_tls_process_record.c (likely false positive)
+327428        0x4FF04         Intel x86 or x64 microcode, sig 0x00000004, pf_mask 0x05, 0DF7-01-01, rev 0x-79b779d6, size 16846327
+327812        0x50084         Intel x86 or x64 microcode, sig 0x00000004, pf_mask 0x05, 0DF7-01-01, rev 0x-79b779d6, size 16846327
+332080        0x51130         AES S-Box
+332336        0x51230         AES Inverse S-Box
+332604        0x5133C         DES SP1, big endian
+332633        0x51359         Intel x86 or x64 microcode, sig 0x00040401, pf_mask 0x1040001, 0401-01-00, rev 0x1000400, size 262144
+332660        0x51374         Intel x86 or x64 microcode, sig 0x00040001, pf_mask 0x40100, 0000-04-04, rev 0x4000000, size 257
+332728        0x513B8         Intel x86 or x64 microcode, sig 0x04000000, pf_mask 0x01, 0101-04-04, rev 0x0100, size 262144
+332752        0x513D0         Intel x86 or x64 microcode, sig 0x04000101, pf_mask 0x4000001, 0000-00-04, rev 0x0001, size 67108864
+332756        0x513D4         Intel x86 or x64 microcode, sig 0x00000100, pf_mask 0x40000, 0101-04-00, rev 0x40000, size 67371009
+332769        0x513E1         Intel x86 or x64 microcode, sig 0x00000400, pf_mask 0x1040401, 0000-00-04, rev 0x1000401, size 17039361
+332860        0x5143C         DES SP2, big endian
+333403        0x5165B         Intel x86 or x64 microcode, sig 0x20800000, pf_mask 0x800000, 0000-20-80, rev 0x20800000, size 1
+333435        0x5167B         Intel x86 or x64 microcode, sig 0x20800000, pf_mask 0x20000000, 0000-00-80, rev 0x20000001, size 8388736
+333451        0x5168B         Intel x86 or x64 microcode, sig 0x20000001, pf_mask 0x20000001, 0000-20-00, rev 0x800080, size 536871040
+333611        0x5172B         Intel x86 or x64 microcode, sig 0x20800000, pf_mask 0x80200, 0000-20-00, rev 0x800080, size 524288
+333730        0x517A2         Intel x86 or x64 microcode, sig 0x00020001, pf_mask 0x8000001, 0000-08-02, rev 0x420000, size 1
+333762        0x517C2         Intel x86 or x64 microcode, sig 0x08020000, pf_mask 0x20001, 0000-00-40, rev 0x20001, size 138543104
+333806        0x517EE         Intel x86 or x64 microcode, sig 0x08420000, pf_mask 0x8420000, 0000-08-42, rev 0x20001, size 2048
+334662        0x51B46         Intel x86 or x64 microcode, sig 0x01000100, pf_mask 0x10000, 0000-01-00, rev 0x1000101, size 65537
+334669        0x51B4D         Intel x86 or x64 microcode, sig 0x01010101, pf_mask 0x1000100, 0101-00-00, rev 0x10001, size 16777217
+334684        0x51B5C         Intel x86 or x64 microcode, sig 0x01010001, pf_mask 0x10101, 0001-00-01, rev 0x1000001, size 2048
+334715        0x51B7B         Intel x86 or x64 microcode, sig 0x00010100, pf_mask 0x1010000, 0000-00-01, rev 0x0100, size 2048
+334720        0x51B80         Intel x86 or x64 microcode, sig 0x00010000, pf_mask 0x10101, 0101-00-00, rev 0x0100, size 16777217
+334729        0x51B89         Intel x86 or x64 microcode, sig 0x01000101, pf_mask 0x10000, 0100-00-00, rev 0x1000100, size 65537
+334746        0x51B9A         Intel x86 or x64 microcode, sig 0x01010100, pf_mask 0x1000101, 0100-01-00, rev 0x10100, size 257
+334779        0x51BBB         Intel x86 or x64 microcode, pf_mask 0xa090807, 0000-00-00, size 303108111
+334967        0x51C77         Intel x86 or x64 microcode, sig 0x8b01200c, pf_mask 0x9a01208c, 2000-39-05, rev 0x0004, size 4294967295
+335283        0x51DB3         Intel x86 or x64 microcode, sig 0x8b012060, pf_mask 0x9b01208c, 2000-45-05, rev 0x0004, size 1
+335315        0x51DD3         Intel x86 or x64 microcode, sig 0xffffffff, pf_mask 0xffffffff, FF00-FF-FF, size 4294967295
+335623        0x51F07         Intel x86 or x64 microcode, sig 0x8b01209c, pf_mask 0x9d01208c, 2000-52-05, rev 0x0004, size 4294967295
+335672        0x51F38         YAFFS filesystem, big endian (first object is not a directory) (unexpected name in the first object entry)
+335704        0x51F58         YAFFS filesystem, big endian (first object is not a directory) (unexpected name in the first object entry)
+335967        0x5205F         Broadcom firmware header Corporatio . Model: ÿÿÿÓì*ï*Èí.ÑÆV9PZþAnãø-kâ>çä³1/§rv. Firmware version: ZþAnãø-kâ>çä³1/§rv.
+335987        0x52073         Intel x86 or x64 microcode, sig 0x8b0120f8, pf_mask 0x9f01208c, 2000-75-05, rev 0x0004, size 255
+336447        0x5223F         Intel x86 or x64 microcode, sig 0x8b0120dc, pf_mask 0xa101208c, 2000-A2-05, rev 0x0004, size 4294967295
+339479        0x52E17         Broadcom firmware header Corporatio . Model: . Firmware version: .
+340311        0x53157         Broadcom firmware header Corporatio . Model: . Firmware version: .
+342703        0x53AAF         Broadcom firmware header Corporatio . Model: . Firmware version: .
+343731        0x53EB3         Broadcom firmware header Corporatio ~)I;ª2n%ÞY.(ª¥¨"¼_F.çä$TPþõ4±¦P³ßoJÔ¼õÛ¨. Model: ½WÈOÉÂêÃü5ÿ}Ævnû/ÕîÛ^gD}srâ[2~3É§úå. Firmware version: /ÕîÛ^gD}srâ[2~3É§úå.
+345763        0x546A3         Broadcom firmware header Corporatio  . Model: . Firmware version: .
+345971        0x54773         Broadcom firmware header Corporatio  . Model: . Firmware version: .
+346179        0x54843         Broadcom firmware header Corporatio  . Model: . Firmware version: .
+346387        0x54913         Broadcom firmware header Corporatio  . Model: . Firmware version: .
+346595        0x549E3         Broadcom firmware header Corporatio  . Model: . Firmware version: .
+346803        0x54AB3         Broadcom firmware header Corporatio  . Model: . Firmware version: .
+347011        0x54B83         Broadcom firmware header Corporatio  . Model: è£ñÛéjÕd5A[C²eå.¡ýÿ]x+çévÔÓ¸ÜÇ.Ý-~Äï©ØYcÉQ. Firmware version: .¡ýÿ]x+çévÔÓ¸ÜÇ.Ý-~Äï©ØYcÉQ.
+347114        0x54BEA         Intel x86 or x64 microcode, sig 0x0520b84c, pf_mask 0xaf0b4155, 2000-05-20, rev 0x4000, size 1550327659
+349938        0x556F2         Linux EXT filesystem, blocks count: 3662254620, image size: 3750148730880, invalid state invalid error behavior invalid major revision rev 436571072.6661, ext2 filesystem data, UUID=891ef32f-b310-ae93-a25a-e6e472807280, volume name "½l¢&¦b>¤0~ËôE¸¶¿ÂKÑ×æN"[.'8ªðÊNû[°uÊÔIósRkÊx©º^>QQÝç<c¸ÃòÈ`LÄïEóÛ@"
+

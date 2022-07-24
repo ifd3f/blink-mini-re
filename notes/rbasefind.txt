@@ -1,0 +1,13 @@
+Located 3024 strings
+Located 211212 pointers
+Scanning with 8 threads...
+0x461b5000: 50
+0x460e7000: 42
+0x461b4000: 41
+0x461b3000: 35
+0x460ed000: 35
+0x4606f000: 35
+0x461c3000: 33
+0x460ee000: 33
+0x460ec000: 32
+0x461c2000: 31

@@ -9,6 +9,9 @@
       let pkgs = import nixpkgs { inherit system; };
       in {
         devShells.default = with pkgs;
-          mkShell { buildInputs = [ binwalk flashrom ghidra ]; };
+          mkShell {
+            buildInputs = [ binwalk flashrom ghidra radare2 gcc-arm-embedded ]
+              ++ (with python310Packages; [ poetry jupyter ]);
+          };
       });
 }

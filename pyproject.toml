@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "blink-re"
+version = "0.1.0"
+description = ""
+authors = ["Astrid Yu <astrid@astrid.tech>"]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.11"
+pandas = "^1.4.3"
+ghidra-bridge = "^0.2.5"
+numpy = "^1.23.1"
+matplotlib = "^3.5.2"
+scipy = "^1.8.1"
+jupyter = "^1.0.0"
+OFRAK = "^0.0.1"
+scapy = "^2.4.5"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
