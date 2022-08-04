@@ -10,7 +10,7 @@
       in {
         devShells.default = with pkgs;
           mkShell {
-            buildInputs = [ binwalk flashrom ghidra radare2 gcc-arm-embedded ]
+            buildInputs = [ binwalk flashrom ghidra radare2 gcc-arm-embedded openssl ]
               ++ (with python310Packages; [ poetry jupyter ]);
           };
       });

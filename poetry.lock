@@ -216,6 +216,14 @@ python-versions = "*"
 jfx-bridge = ">0.4.2"
 
 [[package]]
+name = "hexdump"
+version = "3.3"
+description = "dump binary data to hex format and restore from there"
+category = "main"
+optional = false
+python-versions = "*"
+
+[[package]]
 name = "ipykernel"
 version = "6.15.1"
 description = "IPython Kernel for Jupyter"
@@ -1054,7 +1062,7 @@ notebook = ">=4.4.1"
 [metadata]
 lock-version = "1.1"
 python-versions = ">=3.10,<3.11"
-content-hash = "03f2e21efd4c2b985d8d5fc2702c097037e2dd658357043bf252f874603146b3"
+content-hash = "caccaddfbd194d0627b946655b30a4786672e2cc7c2c169756901044e9919871"
 
 [metadata.files]
 appnope = [
@@ -1137,6 +1145,7 @@ fastjsonschema = [
 ]
 fonttools = []
 ghidra-bridge = []
+hexdump = []
 ipykernel = []
 ipython = []
 ipython-genutils = [

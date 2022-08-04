@@ -1,0 +1,6 @@
+[submodule "netxduo"]
+	path = netxduo
+	url = https://github.com/azure-rtos/netxduo.git
+[submodule "mbedtls"]
+	path = mbedtls
+	url = https://github.com/Mbed-TLS/mbedtls.git

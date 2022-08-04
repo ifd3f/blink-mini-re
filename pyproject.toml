@@ -14,6 +14,7 @@ scipy = "^1.8.1"
 jupyter = "^1.0.0"
 OFRAK = "^0.0.1"
 scapy = "^2.4.5"
+hexdump = "^3.3"
 
 [tool.poetry.dev-dependencies]
 
