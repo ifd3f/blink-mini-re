@@ -833,6 +833,14 @@ optional = false
 python-versions = ">=3.7"
 
 [[package]]
+name = "pyyaml"
+version = "6.0"
+description = "YAML parser and emitter for Python"
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+[[package]]
 name = "pyzmq"
 version = "23.2.0"
 description = "Python bindings for 0MQ"
@@ -1062,7 +1070,7 @@ notebook = ">=4.4.1"
 [metadata]
 lock-version = "1.1"
 python-versions = ">=3.10,<3.11"
-content-hash = "caccaddfbd194d0627b946655b30a4786672e2cc7c2c169756901044e9919871"
+content-hash = "8370e4de1e9e45e51e66d8a68a0a5ab509296893cddef4a1066d59056e826d51"
 
 [metadata.files]
 appnope = [
@@ -1380,6 +1388,7 @@ pywin32 = [
     {file = "pywin32-304-cp39-cp39-win_amd64.whl", hash = "sha256:d24a3382f013b21aa24a5cfbfad5a2cd9926610c0affde3e8ab5b3d7dbcf4ac9"},
 ]
 pywinpty = []
+pyyaml = []
 pyzmq = []
 qtconsole = []
 qtpy = [

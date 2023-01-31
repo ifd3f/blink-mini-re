@@ -1,5 +1,4 @@
 result
-    boot.extraModulePackages = [ config.boot.kernelPackages.exfat-nofuse ];
 *.bak
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,direnv,jupyternotebooks,linux,libreoffice
